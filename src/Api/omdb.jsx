@@ -14,7 +14,7 @@ export const getMovieData = (name) => {
     },
   });
 };
-console.log(import.meta.env.VITE_ODMID_API_KEY);
+// console.log(import.meta.env.VITE_ODMID_API_KEY);
 
 // Fetch movie details by IMDb ID
 export const getMovieDetail = (imdbID) => {

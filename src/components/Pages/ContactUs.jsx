@@ -28,6 +28,7 @@ const ContactUs = () => {
       variants={fadeInUp(0.7)} 
       initial="hidden"
       animate="visible"
+      exit='hidden'
       >
         <h2>Get in Touch</h2>
 
